@@ -2,7 +2,7 @@
 
 A wearable, servo-powered arm attachment that extends and fires a spring-loaded projectile using EMG muscle signals—built to mimic the immersive cyberware experience of *Cyberpunk 2077*.
 
-![alt text](<Blend Files/Renders/Studio/Studio Shot.png>)
+![Studio Render](<Blend Files/Renders/Studio/Studio Shot.png>)
 
 ## 🚀 Overview
 
@@ -13,7 +13,7 @@ A wearable, servo-powered arm attachment that extends and fires a spring-loaded 
 
 This project explores how EMG signals can control physical actuators to feel like a seamless extension of the human body.
 
-![alt text](<Demo Render.gif>)
+![Demo Animation](<Demo Render.gif>)
 
 ---
 
@@ -46,7 +46,7 @@ The FLEXFIRE-X uses a total of nine 3D printed components that were designed in 
 
 An exploded view of the device shows the layout of each part:
 
-![alt text](Exploded.png)
+![Exploded View](<Blend Files/Renders/Exploded/Exploded.png>)
 **The Mounting Bracket, Rack and Pinion Gear were modified from [potentprintables](https://www.thingiverse.com/thing:3170748) design on Thingiverse*
 
 ---
